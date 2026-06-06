@@ -1,5 +1,6 @@
 {
   "enabled": true,
   "required_version_code": 4,
-  "store_url": "market://details?id=com.artyomblack.tintorasort"
+  "market_url": "market://details?id=com.artyomblack.tintorasort",
+  "play_store_url": "https://play.google.com/store/apps/details?id=com.artyomblack.tintorasort"
 }
